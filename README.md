@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch06_02-terrain-heights
+# unity-cookbook-2023-ch06-02-terrain-heights
